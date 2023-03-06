@@ -1,5 +1,4 @@
 // Classe Continua
-// Classe para realizar função de continuar
 import javax.swing.*;  
 public class Continua extends Menu {
     
