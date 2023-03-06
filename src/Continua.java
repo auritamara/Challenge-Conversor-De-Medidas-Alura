@@ -1,4 +1,3 @@
-// Classe Continua
 import javax.swing.*;  
 public class Continua extends Menu {
     
