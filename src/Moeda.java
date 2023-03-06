@@ -1,3 +1,5 @@
+// Classe moeda
+// Utilizado para executar metodos de conversão de moeda
 import java.text.DecimalFormat; 
 import javax.swing.*;  
 
